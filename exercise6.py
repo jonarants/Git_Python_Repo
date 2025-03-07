@@ -14,4 +14,4 @@ AzbycX
 s1 = "Abc"
 s2 = "Xyz"
 
-s3=s1[1]
+s3=s1[1]+s2
